@@ -1,0 +1,7 @@
+May-08-23 10:09:03: INFO - *****Beginning Log*****
+May-08-23 10:09:03: INFO - Function setup started.
+May-08-23 10:09:03: INFO - Function setup took 0.06574620003812015 seconds.
+May-08-23 10:09:03: INFO - Function scrape started.
+May-08-23 10:09:06: INFO - Function scrape took 3.4589802999980748 seconds.
+May-08-23 10:09:06: INFO - Function get_data started.
+May-08-23 10:09:06: INFO - Function get_data took 2.100015990436077e-06 seconds.
